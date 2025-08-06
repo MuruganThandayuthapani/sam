@@ -1,0 +1,63 @@
+GitHub Action:
+
+Workflow process:
+Push: 
+
+ 
+first work flow #9: Commit 10182ea pushed by Murugantk
+ 
+
+Issues:
+we can add two also like [push,Issues]
+ 
+first work flow #11: Issue #2 edited by Murugantk
+ 
+
+Pull_request
+ 
+you have to create one pull request (if no change make some changes in the file)
+first work flow #15: Pull request #7 opened by Murugantk
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------------
+Manual Trigger:
+Workflow :
+ 
+
+Commit in the new branch then merge to the main after you can find
+This workflow has a workflow_dispatch event trigger.
+ 
+Schudule: runners
+ 
+
+Activity types:
+ 
+
+open pull_request
+if any open pullreuest is there is trigeer will happen
+ 
+
+Filters:
+ 
+only main branch trigger event will happen
+ 
+it will do the ignore doc filename.
+
+ 
+multiple branches you can given 
+path
+
+
+
+
+
+
+
+
+
+
+
+
+
+
